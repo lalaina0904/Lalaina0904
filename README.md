@@ -8,7 +8,7 @@
 
 <p>I'm a passionate frontend developer and web designer from Madagascar :madagascar:.</p>
 
--   🌱 I’m currently learning **Backend Development && Graphic Design**
+-   🌱 I’m currently in internship to learn how to manage and lead projects
 
 -   💬 Ask me about **Frontend Development**
 
