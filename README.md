@@ -10,9 +10,9 @@
 
 -   🌱 I’m currently in internship to learn how to manage and lead projects
 
--   💬 Ask me about **Frontend Development**
+-   💬 Ask me about **Frontend Development or ui/ux design**
 
--   📫 How to reach me **hei.lalaina.2@gmail.com**
+-   📫 How to reach me **hei.lalaina.2@gmail.com | +261 34 44 206 01**
 
 -   ⚡ Fun fact : **I'm just cool**
 
